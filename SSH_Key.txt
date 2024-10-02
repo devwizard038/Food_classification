@@ -1,0 +1,19 @@
+Generating public/private rsa key pair.
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /home/dlivaiuf/.ssh/id_rsa.
+Your public key has been saved in /home/dlivaiuf/.ssh/id_rsa.pub.
+The key fingerprint is:
+5c:25:1a:4a:88:83:36:66:de:ea:f0:95:71:59:49:f5 
+The key's randomart image is:
++--[ RSA 2048]----+
+| . . ...ooo .    |
+|.=o .. .oo +     |
+|= o.  .o. . E    |
+| . .. o. .       |
+|  .  +  S        |
+|..  o            |
+|o. .             |
+| ..              |
+|                 |
++-----------------+
